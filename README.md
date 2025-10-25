@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nalindu Melaka Vithrana</h1>
-<h3 align="center">Software Engineering Undergraduate from Sri Lanka.</h3>
+<h3 align="center">Software Engineering graduate from Sri Lanka.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47h7aq9uip105pniegvi194zb5kx6yqcztxe0dm4v2&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalindumelaka&label=Profile%20views&color=0e75b6&style=flat" alt="nalindumelaka" /> </p>
